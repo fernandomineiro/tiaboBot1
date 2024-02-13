@@ -26,7 +26,7 @@ var con = mysql.createConnection({
 
 var options = {
   'method': 'GET',
-  'url': 'https://portaldatransparencia.gov.br/pessoa-juridica/busca/resultado?letraInicial=A&pagina=2&tamanhoPagina=1000&ufPessoaJuridica=SP',
+  'url': 'https://portaldatransparencia.gov.br/pessoa-juridica/busca/resultado?letraInicial=A&pagina=3&tamanhoPagina=1000&ufPessoaJuridica=SP',
   'headers': {
   }
 };
